@@ -97075,14 +97075,12 @@ function App() {
     })
   }), /*#__PURE__*/_react.default.createElement(_antd.Card, {
     title: "Timeline"
-  }, /*#__PURE__*/_react.default.createElement(_antd.Timeline, null, /*#__PURE__*/_react.default.createElement(_antd.Timeline.Item, null, "Grah Yadnya & Mamera: August 5 2020 9 am onwards to 12 am", " "), /*#__PURE__*/_react.default.createElement(_antd.Timeline.Item, null, "Haldi & Devdevak:- August 7 2020 8 am to 12 am"), /*#__PURE__*/_react.default.createElement(_antd.Timeline.Item, null, "Shrimanti Pujan:- August 7 2020 5 pm onwards", " ", /*#__PURE__*/_react.default.createElement("a", null, "Click here to join on zoom")), /*#__PURE__*/_react.default.createElement(_antd.Timeline.Item, null, "Shubh Muhurta Lagna (11:12 am) August 8 2020 11 am onwards", " ", /*#__PURE__*/_react.default.createElement("a", null, "Click here to join on zoom")), /*#__PURE__*/_react.default.createElement(_antd.Timeline.Item, null, "Bidai August 8 2020 5 pm to 7 pm")), ",")), /*#__PURE__*/_react.default.createElement(_antd.PageHeader, {
+  }, /*#__PURE__*/_react.default.createElement(_antd.Timeline, null, /*#__PURE__*/_react.default.createElement(_antd.Timeline.Item, null, "Grah Yadnya & Mamera: August 5 2020 9 am onwards to 12 am", " "), /*#__PURE__*/_react.default.createElement(_antd.Timeline.Item, null, "Haldi & Devdevak:- August 7 2020 8 am to 12 am"), /*#__PURE__*/_react.default.createElement(_antd.Timeline.Item, null, "Shrimanti Pujan:- August 7 2020 5 pm onwards", " ", /*#__PURE__*/_react.default.createElement("a", null, "Click here to join on zoom")), /*#__PURE__*/_react.default.createElement(_antd.Timeline.Item, null, "Shubh Muhurta Lagna (11:12 am) August 8 2020 11 am onwards", " ", /*#__PURE__*/_react.default.createElement("a", null, "Click here to join on zoom")), /*#__PURE__*/_react.default.createElement(_antd.Timeline.Item, null, "Bidai August 8 2020 5 pm to 7 pm")))), /*#__PURE__*/_react.default.createElement(_antd.Card, {
     style: {
       border: "1px solid rgb(235, 237, 240)",
       marginBottom: 20
-    },
-    subTitle: "This website is developed by cbkm  contact us on +919340573858",
-    extra: "CBKM"
-  }));
+    }
+  }, "This website is developed by CBKM contact us on +919340573858"));
 }
 },{"react":"n8MK","antd":"cmSP"}],"Focm":[function(require,module,exports) {
 "use strict";
